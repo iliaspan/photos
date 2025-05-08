@@ -1,3 +1,5 @@
+permalink: /photos/:title/
+
 # Site settings
 title: Klise Theme # site title
 description: >- # site description
