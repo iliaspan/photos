@@ -23,8 +23,8 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://iliaspan.space/photos" #
-baseurl:
+url: "https://iliaspan.space"
+baseurl: "/photos"
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
